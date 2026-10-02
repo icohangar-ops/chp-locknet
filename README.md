@@ -25,6 +25,16 @@ CHP Locknet adds a **cryptographic verification layer** between inference and ac
 
 ---
 
+<!-- product-screenshots:start -->
+## Product screenshots
+
+Verification dashboard showing the locked consensus state, confidence metrics, and Nosana inference-job area.
+
+![chp-locknet product interface](assets/chp-locknet-locked.png)
+
+Existing UI capture stored in this repository; displayed values may be demo or sample data.
+<!-- product-screenshots:end -->
+
 ## Architecture
 
 ```
